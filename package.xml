@@ -5,7 +5,7 @@
     http://pear.php.net/dtd/package-2.0.xsd">
   <name>ExtenderLib</name>
   <channel>pear.gradwell.com</channel>
-  <summary>Summary goes here</summary>
+  <summary>A simple library to help your app find extensions at runtime</summary>
   <description>
     Description goes here
   </description>
